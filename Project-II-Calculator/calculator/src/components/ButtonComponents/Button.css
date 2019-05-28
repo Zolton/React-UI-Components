@@ -1,0 +1,61 @@
+button {
+    background-color: white;
+
+    font-size: 22px;
+    width: 50px;
+    margin: 0px auto;
+}
+
+
+.math{
+    background-color: red;
+}
+
+.Calculator{
+    max-width: 300px;
+
+}
+
+.math {
+    text: white;
+}
+
+.display {
+    
+    width: 68%;
+    background-color: black;
+    text: white;
+}
+
+.clearButton {
+    width: 50%;
+}
+
+.zeroButton {
+    width: 50%;
+}
+
+/* .clearLine {
+    display: flex;
+    flex-flow: row nowrap;
+    width: 100%;
+}
+
+.row1 {
+    display: flex;
+    flex-flow: row nowrap;
+    width: 100%;
+}
+.row2 {
+    display: flex;
+    flex-flow: row nowrap;
+    width: 100%;
+}
+.row3 {
+    display: flex;
+    flex-flow: row nowrap;
+    width: 100%;
+} */
+
+
+
