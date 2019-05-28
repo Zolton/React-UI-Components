@@ -1,6 +1,5 @@
 button {
     background-color: white;
-
     font-size: 22px;
     width: 50px;
     margin: 0px auto;
@@ -13,18 +12,17 @@ button {
 
 .Calculator{
     max-width: 300px;
-
 }
 
 .math {
-    text: white;
+    color: white;
 }
 
+
 .display {
-    
-    width: 68%;
+    width: 66.5%;
     background-color: black;
-    text: white;
+    color: white;
 }
 
 .clearButton {
