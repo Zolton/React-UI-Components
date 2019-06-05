@@ -10,7 +10,7 @@
 - Inside of `../../social-card` you'll then need to run `yarn start` to open up a React Development Server that can take your `.js` files as components and bundle them up to work in your new environment.
 - **You'll repeat this last two steps for the calculator project, but you'll need to make sure that you're inside of `../../calculator` directory to make this work.**
 
-## Instructions
+## Instructionsss
 
 
 - For the first project you'll work on the project found in `Project-I-Social-Card`.
@@ -37,16 +37,16 @@
 
 #### Project 1 MVP requirements
 
-- Create a `<HeaderContainer />` container component that will hold your header components.
+X Create a `<HeaderContainer />` container component that will hold your header components.
 
-  - Create an `<ImageThumbnail />` component using this image url https://tk-assets.lambdaschool.com/1c1b7262-cf23-4a9f-90b6-da0d3c74a5c6_lambdacrest.png as it's img src.
-  - Create a `<HeaderTitle />` component that displays the Lambda School header text, @LambdaSchool handle and timestamp.
-  - Create a `<HeaderContent />` component that displays the copy provided in the headers content.
+  x Create an `<ImageThumbnail />` component using this image url https://tk-assets.lambdaschool.com/1c1b7262-cf23-4a9f-90b6-da0d3c74a5c6_lambdacrest.png as it's img src.
+  x Create a `<HeaderTitle />` component that displays the Lambda School header text, @LambdaSchool handle and timestamp.
+  x Create a `<HeaderContent />` component that displays the copy provided in the headers content.
 
-- Create a `<CardContainer/ >` container component that will hold your card components.
-  - Create a `<CardBanner />` component that will display this image as it's background: https://tk-assets.lambdaschool.com/fcd75197-7d12-46ec-bc9e-4130f34822fa_reactbackground.png
-  - Create a `<CardContent />` component that displays the card copy provided.
-  - The entire `<CardContainer />` should take a user to `https://www.reactjs.org` when clicked.
+x Create a `<CardContainer/ >` container component that will hold your card components.
+  x Create a `<CardBanner />` component that will display this image as it's background: https://tk-assets.lambdaschool.com/fcd75197-7d12-46ec-bc9e-4130f34822fa_reactbackground.png
+  x Create a `<CardContent />` component that displays the card copy provided.
+  x The entire `<CardContainer />` should take a user to `https://www.reactjs.org` when clicked.
 
 #### Project 1 Stretch Problems
 

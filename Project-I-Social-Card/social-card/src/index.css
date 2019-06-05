@@ -1,5 +1,35 @@
 body {
-  margin: 0;
+  margin: 0 auto;
   padding: 0.4rem;
   font-family: sans-serif;
+  display: flex;
+}
+
+div {
+  margin: 0 auto;
+  display: flex;
+  flex-flow: column nowrap;
+  max-width: 900px;
+
+}
+
+.headerRow {
+  display: flex;
+  flex-flow: row nowrap;
+  margin: 0 auto;
+}
+
+.lambdaLogo {
+  display: flex;
+  width: 10%;
+  height: auto;
+}
+
+.cardContent1 {
+  border: 1px solid gray;
+}
+
+a {
+  text-decoration: none;
+  color: black;
 }
